@@ -1,0 +1,1 @@
+2(a). Performance of random classifier and majority-class classifierF1_measure for random classifier for yelp is: 0.204F1_measure for majority classifier for yelp is: 0.351
